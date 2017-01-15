@@ -1,0 +1,4 @@
+setting.properties
+*.b
+/test4.txt
+/*/test3.txt
